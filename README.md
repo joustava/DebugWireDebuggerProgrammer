@@ -49,4 +49,9 @@ void loop() {
 
 5. Switch to DEBUG mode, reset the programmer and open the Arduino IDE serial monitor. You'll be greeted with a little menu.
 
+6. In serial monitor, press '+' to enable on chip debugging.
+7. In serial monitor, press 'B' to engage the debugger.
+
+
+
 ## Debugging
